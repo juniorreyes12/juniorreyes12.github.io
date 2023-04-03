@@ -1,0 +1,20 @@
+body{
+    background-image: url(Negro\ Blanco\ Fotografía\ Contabilidad\ Servicio\ Sitio\ Web.png);
+    background-size: cover;
+}
+
+    button {
+        position: absolute;
+        top: 70%;
+        left: 18%;
+        transform: translate(-50%, -50%);
+        border-radius: 20px;
+        border: 2px solid #000;
+        padding: 10px 20px;
+        font-size: 16px;
+        
+      }
+      a {
+        text-decoration: none; /* quita el subrayado */
+        color: #333; /* aplica el color que desees */
+      }
